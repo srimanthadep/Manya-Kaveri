@@ -1,0 +1,6 @@
+{
+  "name": "Kaveri Stays",
+  "description": "Enterprise Hotel Management System with a premium Glassmorphism design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
